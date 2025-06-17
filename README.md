@@ -1,1 +1,1 @@
-# Dynamic-Processor-System
+Application that dynamically selects and processes data based on a configuration file. The project utilizes polymorphism, the Factory design pattern, and robust exception handling to create and manage different types of processors (Text, Numeric, Image, and Audio). Key features include dynamic file parsing using STL containers for efficient data handling.
